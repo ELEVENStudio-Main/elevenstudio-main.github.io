@@ -10,7 +10,7 @@
 ### 洛谷官方魔改
 [洛谷-simple](https://www.luogu.com.cn/theme/design/46302)    
 ### 简约渐变
-[Polar Blue](https://www.luogu.com.cn/theme/design/44482)  
+[Polar Blue Original](https://www.luogu.com.cn/theme/design/46365)  
 [Olive Green](https://www.luogu.com.cn/theme/design/44528)  
 ### For Apple Fans
 [Hello Green](https://www.luogu.com.cn/theme/design/44529)  
