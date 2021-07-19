@@ -1,3 +1,3 @@
-# intro
-[**en**](https://elevenstudio-main.github.io/) | [中文](https://elevenstudio-main.github.io/index_cn)  
-This is @lijunhao2023's official blog on GitHub.
+# 简介
+这是@lijunhao2023在GitHub上的官方博客。
+- [主题商店](https://elevenstudio-main.github.io/theme)
