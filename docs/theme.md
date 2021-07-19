@@ -5,6 +5,8 @@
 [Polar Blue New](https://www.luogu.com.cn/theme/design/44482)  
 
 ## 所有主题
+### 巴蜀OnlineJudge
+[Bashu Blue](https://www.luogu.com.cn/theme/design/44528)  
 ### 洛谷官方魔改
 [洛谷-simple](https://www.luogu.com.cn/theme/design/46302)    
 ### 简约渐变
@@ -13,4 +15,8 @@
 ### For Apple Fans
 [Hello Green](https://www.luogu.com.cn/theme/design/44529)  
 [Monterey](https://www.luogu.com.cn/theme/design/44680)  
-[Mojave](https://www.luogu.com.cn/theme/design/44403)
+[Big Sur](https://www.luogu.com.cn/theme/design/46335)  
+[Mojave](https://www.luogu.com.cn/theme/design/44403)   
+## 即将推出
+[Midnight](https://www.luogu.com.cn/theme/design/46274)  
+[macOS](https://www.luogu.com.cn/theme/design/46336)  
