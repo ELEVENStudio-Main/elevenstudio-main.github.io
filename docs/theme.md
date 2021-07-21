@@ -6,7 +6,7 @@
 
 ## 所有主题
 ### 巴蜀OnlineJudge
-[Bashu Blue](https://www.luogu.com.cn/theme/design/46334)  
+[Bashu Blue](https://www.luogu.com.cn/theme/design/46334)-48小时匠心取色，只为，初心的蓝
 ### 洛谷官方魔改
 [洛谷-simple](https://www.luogu.com.cn/theme/design/46302)    
 ### 简约渐变
