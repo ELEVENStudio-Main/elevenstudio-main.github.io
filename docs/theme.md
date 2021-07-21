@@ -12,6 +12,8 @@
 ### 简约渐变
 [Polar Blue Original](https://www.luogu.com.cn/theme/design/46365)  
 [Olive Green](https://www.luogu.com.cn/theme/design/44528)  
+### 激烈撞色
+[蓝橙](https://www.luogu.com.cn/theme/design/46406)  
 ### For Apple Fans
 [Hello Green](https://www.luogu.com.cn/theme/design/44529)  
 [Monterey](https://www.luogu.com.cn/theme/design/44680)  
