@@ -14,11 +14,13 @@
 [Olive Green](https://www.luogu.com.cn/theme/design/44528)  
 ### 激烈撞色
 [蓝橙](https://www.luogu.com.cn/theme/design/46406)  
+### Dark Theme
+[Midnight](https://www.luogu.com.cn/theme/design/46274)  
+[Dark Mint](https://www.luogu.com.cn/theme/design/46333)  
 ### For Apple Fans
 [Hello Green](https://www.luogu.com.cn/theme/design/44529)  
 [Monterey](https://www.luogu.com.cn/theme/design/44680)  
 [Big Sur](https://www.luogu.com.cn/theme/design/46335)  
 [Mojave](https://www.luogu.com.cn/theme/design/44403)   
 ## 即将推出
-[Midnight](https://www.luogu.com.cn/theme/design/46274)  
 [macOS](https://www.luogu.com.cn/theme/design/46336)  
