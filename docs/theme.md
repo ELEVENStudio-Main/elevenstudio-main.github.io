@@ -17,10 +17,11 @@
 ### Dark Theme
 [Midnight](https://www.luogu.com.cn/theme/design/46274)  
 [Dark Mint](https://www.luogu.com.cn/theme/design/46333)  
-### For Apple Fans
+### Apple 原生壁纸
 [Hello Green](https://www.luogu.com.cn/theme/design/44529)  
 [Monterey](https://www.luogu.com.cn/theme/design/44680)  
 [Big Sur](https://www.luogu.com.cn/theme/design/46335)  
-[Mojave](https://www.luogu.com.cn/theme/design/44403)   
+[Mojave](https://www.luogu.com.cn/theme/design/44403)       
+[Catalina Dawn](https://www.luogu.com.cn/theme/design/47508)    
 ## 即将推出
 [macOS](https://www.luogu.com.cn/theme/design/46336)  
