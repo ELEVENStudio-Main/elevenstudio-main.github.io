@@ -7,4 +7,4 @@
 - [主题商店](theme)
 
 
-[Copyright © 2021 Hexagon.](https://elevenstudio-main.github.io/copyright) | Privacy Policy | Terms of Use | Site Map                     [中国大陆](choose-country-or-region)
+[Copyright © 2021 Hexagon.](https://elevenstudio-main.github.io/copyright) | Privacy Policy | Terms of Use | Site Map                     [中国大陆](choose-country-region)
