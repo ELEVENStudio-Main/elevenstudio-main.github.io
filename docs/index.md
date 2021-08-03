@@ -7,4 +7,5 @@
 - [主题商店](theme)
 
 
-Language 语言 ：[EN](en/index) | [CN]()
+Language 语言 | [EN](en/index) | [CN]()  
+[copyright ©](https://elevenstudio-main.github.io/copyright)  
