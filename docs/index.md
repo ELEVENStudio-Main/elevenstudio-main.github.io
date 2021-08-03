@@ -5,3 +5,6 @@
 
 推荐
 - [主题商店](theme)
+
+
+Language 语言 ：[EN](en/index) | [CN]()
