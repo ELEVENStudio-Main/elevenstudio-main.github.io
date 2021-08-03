@@ -7,4 +7,4 @@
 - [主题商店](theme)
 
 
-[copyright ©](https://elevenstudio-main.github.io/copyright)      \ \ \ \ \ \                 [中国大陆](choose-country-or-region)
+[copyright ©](https://elevenstudio-main.github.io/copyright)                     [中国大陆](choose-country-or-region)
