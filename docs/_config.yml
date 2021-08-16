@@ -1,3 +1,1 @@
-- name: Jekyll Deploy Action
-  uses: jeffreytse/jekyll-deploy-action@v0.1.4
-remote_theme: "jeffreytse/jekyll-theme-yat"
+theme: cayman
